@@ -22,6 +22,7 @@
   "dependencies": {
     "@goodmind/telegram-mt-node": "^0.9.12",
     "@goodmind/telegram-tl-node": "^0.12.4",
-    "http-browserify": "^1.7.0"
+    "http-browserify": "^1.7.0",
+    "telegram-js": "^0.2.4"
   }
 }
