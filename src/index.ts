@@ -6,7 +6,7 @@ import {enable} from 'debug';
 
 import * as schema from './api-tlschema-57.json'
 
-enable('*');
+enable('-net.HttpConnection,*');
 
 const APP_ID = 49631;
 const APP_HASH = 'fb050b8f6771e15bfda5df2409931569';
